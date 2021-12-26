@@ -1,0 +1,27 @@
+.body {
+  @apply leading-7 text-sm max-w-6xl;
+}
+
+.heading {
+  @apply text-xl pt-1  tracking-wide cursor-pointer;
+}
+
+.pageHeading {
+  @apply pt-1 pb-4 text-lg leading-7 tracking-wide;
+}
+
+.sectionHeading {
+  @apply pt-1 tracking-wide cursor-pointer;
+}
+
+.baseHead {
+  @apply pt-1 pb-2 text-xl tracking-wide cursor-pointer mb-2;
+}
+
+.button {
+  @apply pt-1 pb-2 tracking-wide mb-2 cursor-pointer;
+}
+
+.subText {
+  @apply text-xs;
+}

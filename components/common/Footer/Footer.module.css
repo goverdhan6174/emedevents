@@ -1,0 +1,12 @@
+.root {
+  @apply pt-6;
+  background-color: #f4f6f7;
+}
+
+.link {
+  transform: width 300ms linear;
+}
+
+.link:hover > svg {
+  transform: scale(1.1, 1.1);
+}
