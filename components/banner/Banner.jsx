@@ -8,7 +8,7 @@ import { QuickLink } from "@components/common";
 function Banner() {
   return (
     <section id="home" className={s.banner}>
-      <div className="w-32 h-44 rounded-full bg-primary-2" />
+      <div className="w-44 h-44 rounded-full bg-primary-2" />
       <Text variant="heading" className="font-semibold text-accent-7">
         John Wayne
       </Text>

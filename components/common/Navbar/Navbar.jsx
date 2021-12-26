@@ -21,7 +21,7 @@ const Navbar = () => (
           <Bell className="cursor-pointer" />
           <Cart className="cursor-pointer" />
           <HamburgerMenu className="cursor-pointer" />
-          <Cash className="cursor-pointer" />
+          <Cash className="cursor-pointer" value={1023} />
         </div>
         <HamburgerMenu className="cursor-pointer md:hidden" />
       </div>

@@ -27,7 +27,7 @@ export default function Home() {
         <RewardCard className="hidden lg:flex" />
       </div>
 
-      <main className="col-span-3 md:px-4 lg:px-0">
+      <main className="col-span-3 md:px-4 lg:pr-4">
         <GridContainer heading="My activities">
           <CourseCard />
           <CourseCard />
